@@ -1,0 +1,10 @@
+Date,Description,Amount,Type
+2025-01-01,Zomato Order,450,Debit
+2025-01-02,Amazon Purchase,1200,Debit
+2025-01-03,Salary,30000,Credit
+2025-01-05,Uber Ride,230,Debit
+2025-01-07,Electricity Bill,1800,Debit
+2025-01-10,Flipkart,800,Debit
+2025-01-11,Ola Cab,150,Debit
+2025-01-12,Wifi Recharge,600,Debit
+2025-01-15,Rent,10000,Debit

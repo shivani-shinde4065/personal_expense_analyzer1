@@ -1,0 +1,8 @@
+{
+    "Food": ["zomato", "restaurant", "food", "dominos"],
+    "Shopping": ["amazon", "flipkart", "myntra", "store"],
+    "Transport": ["uber", "ola", "cab", "metro", "bus"],
+    "Salary": ["salary", "payroll"],
+    "Bills": ["electricity", "wifi", "recharge", "bill"],
+    "Rent": ["rent"]
+}
